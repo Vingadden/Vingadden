@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @Vingadden
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Vingadden/Vingadden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 Hello! It's my life ambition to contribute to infrastructure, institutions & culture of a sustainable people, for life on Earth.
 I'm in the process of baking several projects, which I'll vaguely list:
 - Digital Gallery of The Future.
@@ -24,6 +12,15 @@ I'm in the process of baking several projects, which I'll vaguely list:
 - New forms of education informed by worldbuilding, Ken Robinson's vision of education & models that empower instead of oppress.
 - New community culture that combines the archaic rites we evolved in & modern tools that give us godlike capabilities.
 - New models for worldbuilding in order to make paracosms into paracosmos.
+- Social media forms that encourage wholesome connection instead of superficial influencer culture.
 
 And more...
 Also looking for angel investors :D
+
+
+I'm looking for anyone who's like to discuss or collaborate on ideas like these... Future technology, software standards, security flaws, social media design in general, musicians, spiritualists or anything really... My discord is Vingadden#3773
+
+You can also reach my email at vistapho@proton.me
+or join my worldbuilding discord community at Karuna Worldbuilding
+Cheers!
+~Bentley
